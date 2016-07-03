@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+
+
+<head>
+ 
+  <title>AD alpha S</title>
+ 
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="./css/navystrap.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  
+</head>
+<body>
+<nav style="height:500" class="navbar navbar-default">
+
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a  class="navbar-brand" style="color:white" href="#">AD alpha S</a>
+	  
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="./index.html">검색 | search</a></li>
+	  <li><a href="./en.html"> 자료 업로드 | upload file</a></li>
+      <li><a href="./index.html"> UTC 충전 | Charge UTC</a></li>
+     <li><a href="./cn.html">계정 설정 | Account Setting</a></li>
+          <li><a href="http://drive.google.com">내 클라우드 | My Cloud</a></li>
+    </ul>
+  </div>
+</nav>
+ 
+ 
+
+  </body>
+</html>
+</body>
+</html>
+
